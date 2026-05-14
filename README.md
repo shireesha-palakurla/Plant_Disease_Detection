@@ -22,14 +22,14 @@ Help farmers and agricultural experts detect plant diseases early
 Reduce crop loss by providing fast and accurate predictions
 Automate disease identification using AI instead of manual inspection
 
-<img width="1085" height="864" alt="Screenshot 2026-05-14 214058" src="https://github.com/user-attachments/assets/2f6c2980-5a55-412e-9267-ca83b7720226" />
+<img width="788" height="810" alt="Screenshot 2026-05-14 214752" src="https://github.com/user-attachments/assets/a5033d07-1e63-4128-b1c1-29064b222a24" />
 
 # ⚙️ How It Works
-User uploads an image of a plant leaf
-Image is preprocessed (resized, normalized)
-CNN model analyzes patterns like spots, color changes, and textures
-The trained model predicts the disease class with probability score
-Output shows whether the plant is healthy or infected and the disease name
+User uploads an image of a plant leaf;
+Image is preprocessed (resized, normalized).
+CNN model analyzes patterns like spots, color changes, and textures.
+The trained model predicts the disease class with probability score.
+Output shows whether the plant is healthy or infected and the disease name.
 
 # 🧪 Technologies Used
 Python
@@ -43,24 +43,23 @@ HTML/CSS (if web interface is used)
 The model is trained using the PlantVillage dataset, available on Kaggle, which contains:
 
 # Tomato leaf diseases (multiple classes)
-Tomato___Bacterial_spot
-Tomato___Early_blight
-Tomato___Late_blight
-Tomato___Leaf_Mold
-Tomato___Septoria_leaf_spot
-Tomato___Spider_mites_Two_spotted
-Tomato___Target_Spot
-Tomato___Tomato_Yellow_Leaf_Curl_Virus
-Tomato___Tomato_mosaic_virus
-Tomato___healthy
+Tomato___Bacterial_spot,
+Tomato___Early_blight,
+Tomato___Late_blight,
+Tomato___Leaf_Mold,
+Tomato___Septoria_leaf_spot,
+Tomato___Spider_mites_Two_spotted,
+Tomato___Target_Spot,
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,
+Tomato___Tomato_mosaic_virus,
+Tomato___healthy.
 # Potato leaf diseases
-Potato___Early_blight
-Potato___Late_blight
-Potato___healthy
+Potato___Early_blight,
+Potato___Late_blight,
+Potato___healthy.
 # Pepper leaf diseases
-Pepper___Bacterial_spot
-Pepper___healthy
-# Healthy leaf images
+Pepper___Bacterial_spot,
+Pepper___healthy.
 
 # 📊 Expected Outcome
 Accurate classification of plant diseases
