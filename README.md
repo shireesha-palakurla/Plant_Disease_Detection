@@ -62,12 +62,12 @@ Pepper___Bacterial_spot
 Pepper___healthy
 # Healthy leaf images
 
-📊 Expected Outcome
+# 📊 Expected Outcome
 Accurate classification of plant diseases
 Improved early detection of crop infections
 High model accuracy with proper training and augmentation
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 Add real-time mobile app support
 Integrate GPS-based farm disease mapping
 Suggest pesticide/fertilizer recommendations
