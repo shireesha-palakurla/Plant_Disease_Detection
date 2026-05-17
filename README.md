@@ -6,7 +6,8 @@ DataSet:https://www.kaggle.com/datasets/emmarex/plantdisease/suggestions
 
 # Project Title
 
-AI-Based Plant Disease Classification System using CNN
+AI-Based Plant Disease Classification System using CNN.
+Model Accuracy: 93.16%
 
 # 🧠 Project Description
 
